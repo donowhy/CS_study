@@ -17,4 +17,4 @@
     공유기는 Switch?
         L4
 
-![img](.\img\3.png)
+![img](./img/3.png)

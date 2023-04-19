@@ -7,7 +7,7 @@
 
 임계 영역 문제의 해결책 조건 : mutual exclusion (상호 배제), progress (진행), bounded waiting (한정된 대기)
 
-![img](.\img\경쟁 조건.png)<br>
-![img](.\img\데드락.png)<br>
-![img](.\img\임계 영역.png)
+![img](./img/경쟁 조건.png)<br>
+![img](./img/데드락.png)<br>
+![img](./img/임계 영역.png)
 

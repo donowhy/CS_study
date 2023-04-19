@@ -11,13 +11,13 @@
 ### block I/O
 
     I/O 작업을 요청한 프로세스/스레드는 요청이 완료될 때까지 블락됨
-![img](.\img\block.png)
+![img](./img/block.png)
 
 
 ### non block I/O
 
     프로세스/스레드를 블락시키지 않고 요청에 대한 현재 상태를 즉시 리턴
-![img](.\img\non-block.png)
+![img](./img/non-block.png)
 
 #### non-block I/O 결과 처리 방식
     1. 완료됐는지 반복적으로 확인
@@ -44,7 +44,7 @@
     4. io_uring - 리눅스
 
     non-block I/O를 통해 I/O 요청 완료 전에도 다른 작업 가능
-![img](.\img\2차원배열.png)<br><br>
+![img](./img/2차원배열.png)<br><br>
     I/O를 요청한 쪽에서 챙기면 Synchronous<br>
     I/O를 요청한 쪽에서 챙기지 않으면 Asynchronous
     

@@ -2,7 +2,7 @@ cpu scheduler : cpu에서 실행될 프로세스를 선택하는 역활
 
 nonpreemptive(비선점) scheduling
 
-![img](.\img\선점비선점 .png)
+![img](./img/선점비선점 .png)
 
 
 신사적, 협력적, 느린 응답성

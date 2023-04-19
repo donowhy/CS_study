@@ -23,8 +23,8 @@ OS 프로세스는 다음과 같은 상태를 가질 수 있습니다:
 5. 종료(Terminated) 상태: 프로세스의 실행이 완료된 상태
     1. 프로그램 종료시 terminated 상태로 바뀜
 
-![img](.\img\프로세스 동작.png)
-![img](.\img\작동구조.png)
+![img](./img/프로세스 동작.png)
+![img](./img/작동구조.png)
 
 
 

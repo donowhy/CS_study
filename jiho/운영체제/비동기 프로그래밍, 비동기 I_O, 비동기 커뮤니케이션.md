@@ -1,13 +1,13 @@
 # Synchronous(동기)
     여러 작업들을 순차적으로 실행하도록 개발
-![img](.\img\synchronous.png)
+![img](./img/synchronous.png)
 
 # Asynchronous(비동기)
     여러 작업들을 독립적으로 실행하도록 개발
-![img](.\img\asynchronous-1.png)
-![img](.\img\asynchronous-2.png)
-![img](.\img\asynchronous-3.png)
-![img](.\img\asynchronous-4.png)
+![img](./img/asynchronous-1.png)
+![img](./img/asynchronous-2.png)
+![img](./img/asynchronous-3.png)
+![img](./img/asynchronous-4.png)
 
     Asynchronous != multithreding
 

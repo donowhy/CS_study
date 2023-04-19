@@ -11,4 +11,4 @@
         HTTP = TCP 80 or TCP 8080
     H/W 입장에선 Interface
 
-![img](.\img\주소.jpg)
+![img](./img/주소.jpg)
