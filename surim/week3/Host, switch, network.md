@@ -16,4 +16,4 @@ Host:네트워크에 연결된 컴퓨터
 - 어느 계층으로 스위칭하냐에 따라서 (계층)+ 스위치 라고 함
 IP로 스위치=L3스위치
 
-![Untitled](/%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC/host.png)
+![Untitled](/surim/week3/%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC/switch.png)
